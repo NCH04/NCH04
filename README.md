@@ -1,4 +1,4 @@
-# Salut, je suis Nabil 👋
+# Salut, je suis Nabil
 
 ## Qui je suis
 Étudiant en dernière année à **EPITA**, spécialisation **SCIA** (Intelligence Artificielle / Data Science).
